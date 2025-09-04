@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montez&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --font-montez: "Montez", cursive;
+  --font-manrope: "Manrope", sans-serif;
+  --font-inter: "Inter", sans-serif;
+}
